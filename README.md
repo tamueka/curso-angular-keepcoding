@@ -13,4 +13,8 @@ Configuracion bootstrap angular.json:
     "node_modules/bootstrap/dist/js/bootstrap.min.js"
   ]
 
-Changes whit boostrap
+Cambios bootstrap
+
+ng build //crear carpeta para distribuccion
+
+ng build --pro //para modo produccion
