@@ -1,5 +1,18 @@
 # CursoAngularKeepcoding
 
+Instalacion bootstrap 
+npm install --save bootstrap jquery
+
+Configuracion bootstrap angular.json:
+    "styles": [
+      "src/styles.css", 
+        "node_modules/bootstrap/dist/css/bootstrap.min.css"
+      ],
+      "scripts": [
+        "node_modules/jquery/dist/jquery.min.js",
+        "node_modules/bootstrap/dist/js/bootstrap.min.js"
+      ]
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
 
 ## Development server
